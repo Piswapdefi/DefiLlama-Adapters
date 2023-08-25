@@ -1,6 +1,6 @@
 const { getUniTVL } = require("../helper/unknownTokens.js");
 
-const factory = "";
+const factory = "0xf6408ddc67210E91A5cA5a82a8194b87465CE204";
 
 module.exports = {
   misrepresentedTokens: true,
